@@ -23,4 +23,8 @@
 `define HELLO_WORLD_REG_ADDR    32'h0000_0500
 `define VLED_REG_ADDR           32'h0000_0504
 
+`define X_REG_ADDR              32'h0000_0508
+`define Y_REG_ADDR              32'h0000_050C
+`define Z_REG_ADDR              32'h0000_0510
+
 `endif
